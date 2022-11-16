@@ -23,5 +23,5 @@ GNU
 
 ## Questions
 If you have any questions you can reach out via GitHub or email
-- Github: https://anafede
+- Github: https://github.com/anafede
 - Email: ana.fede@uconn.edu
