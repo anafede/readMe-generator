@@ -2,12 +2,12 @@
   [![GNU badge](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)]
 
 ## Table of Contents
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Tests](#tests)
-[Contribution](#contribution)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Contribution](#contribution)
 
 ## Description 
 This application uses node.js to create a professional readme markdown file
